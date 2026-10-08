@@ -29,6 +29,15 @@ Dry Van, Reefer, Flatbed, Step Deck, Box Truck, Hotshot
 
 ## Pages
 - Home (services, process, equipment, FAQ, application form): https://sonexlogistics.com/
+- Owner-Operator Dispatch: https://sonexlogistics.com/owner-operator-dispatch
+- Dry Van Dispatch: https://sonexlogistics.com/dry-van-dispatch
+- Reefer Dispatch: https://sonexlogistics.com/reefer-dispatch
+- Flatbed Dispatch: https://sonexlogistics.com/flatbed-dispatch
+- Step Deck Dispatch: https://sonexlogistics.com/step-deck-dispatch
+- Box Truck Dispatch: https://sonexlogistics.com/box-truck-dispatch
+- Hotshot Dispatch: https://sonexlogistics.com/hotshot-dispatch
+- Dispatch Fees: https://sonexlogistics.com/dispatch-fees
+- How Dispatching Works: https://sonexlogistics.com/how-dispatching-works
 - FAQ: https://sonexlogistics.com/#faq
 - Apply for dispatch: https://sonexlogistics.com/#contact
 
